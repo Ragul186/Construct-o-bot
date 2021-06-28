@@ -1,0 +1,9 @@
+﻿  CB_Task_1_Sandbox.cpp
+E:\e-yantra\3.CB Project\CB_Task_1_Sandbox.cpp(1029,20): warning C4018: '<': signed/unsigned mismatch
+E:\e-yantra\3.CB Project\CB_Task_1_Sandbox.cpp(1056,10): warning C4018: '>=': signed/unsigned mismatch
+E:\e-yantra\3.CB Project\CB_Task_1_Sandbox.cpp(1096,20): warning C4018: '<': signed/unsigned mismatch
+E:\e-yantra\3.CB Project\CB_Task_1_Sandbox.cpp(1120,10): warning C4018: '>=': signed/unsigned mismatch
+E:\e-yantra\3.CB Project\CB_Task_1_Sandbox.cpp(1251,9): warning C4551: function call missing argument list
+E:\e-yantra\3.CB Project\CB_Task_1_Sandbox.cpp(1180,6): warning C4101: 'i': unreferenced local variable
+E:\e-yantra\3.CB Project\CB_Task_1_Sandbox.cpp(182): warning C4715: 'check_center': not all control paths return a value
+  CB_Task_1_Project.vcxproj -> E:\e-yantra\3.CB Project\Debug\CB_Task_1_Project.exe
